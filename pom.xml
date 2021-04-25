@@ -7,7 +7,7 @@
   <name>Sample-Webdemo</name>
   <version>1.0.0</version>
   <packaging>war</packaging>
-	<description>Sample Web demo Project for testing with GIT and Jenkins </description>
+	<description>Sample Web demo Project for devops</description>
  <build>
  
   <plugins>
